@@ -1,0 +1,6 @@
+{
+  "name": "MANDIMITHRA",
+  "description": "Agriculture and rural innovation platform helping farmers sell produce at higher profits with less wastage through real-time mandi pricing, shelf-life forecasts, schemes, and multilingual voice AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
